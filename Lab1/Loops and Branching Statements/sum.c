@@ -2,7 +2,7 @@
 
 # include <stdio.h>
 
-void main(){
+void main(){ 
 	int n, sum = 0, cou =0;
 	scanf("%d", &n);
 	while(n!=0){

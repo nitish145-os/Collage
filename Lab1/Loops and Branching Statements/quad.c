@@ -1,7 +1,7 @@
 // Nitish Thombre - 25070521099
 #include <stdio.h>
 #include <math.h>
-
+ 
 int main(){
 	float a, b, c, d, r1, r2;
 	printf("Enter coefficients a, b and c: ");

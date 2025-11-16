@@ -1,7 +1,7 @@
 // Nitish Thombre - 25070521099
 
 #include <stdio.h>
-
+ 
 void main(){
 	int n;
 	printf("Enter month number: ");
